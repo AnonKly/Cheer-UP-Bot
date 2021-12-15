@@ -1,4 +1,4 @@
-#CheerUpBot by Kier De Chavez
+#CheerUpBot by Kly
 #Imports
 from tkinter import *
 from tkinter.font import names
